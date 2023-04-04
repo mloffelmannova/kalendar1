@@ -1,4 +1,6 @@
-﻿Console.ForegroundColor = ConsoleColor.Cyan;
+﻿
+
+Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine("Čaukooo ☺ ☻");
 
 Console.ForegroundColor = ConsoleColor.DarkCyan;
